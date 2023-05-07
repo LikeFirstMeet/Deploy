@@ -1,0 +1,1 @@
+本次作业制作采用其他网站的提供的在线JavaScript库（Jquery,Bootstrap）和CSS库（Bootstrap)，故需要在联网的情况下运行作业才有效，支持IE浏览器
